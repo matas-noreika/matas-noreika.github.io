@@ -29,7 +29,7 @@ url: https://matas-noreika.github.io # the base hostname & protocol for your sit
 github_username:  matas-noreika
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: time machine
 plugins:
   - jekyll-feed
 # Exclude from processing.
