@@ -6,3 +6,4 @@ portfolio showcase.
 # Next Steps
 
 - [ ] Use discussions to create comment section on blog posts
+- [ ] Add pagnation to posts to enable longer tutorials
