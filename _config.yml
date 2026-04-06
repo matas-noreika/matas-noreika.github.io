@@ -29,9 +29,23 @@ url: https://matas-noreika.github.io # the base hostname & protocol for your sit
 github_username:  matas-noreika
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jeyll-seo-tag
+
+# Google analytics setup
+google_analytics: G-SK3NCHMSTB
+
+# minima styling
+minima:
+  skin: dark
+  social_links:
+    - title: Github Profile
+      icon: github
+      url: "https://github.com/matas-noreika"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

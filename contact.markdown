@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Contact Me
+title: Contact
 permalink: /contact/
 ---
-
-## Contact Details
 
 Email: [matassimkus55@gmail.com](mailto:matassimkus55@gmail.com)
