@@ -54,7 +54,7 @@ command to open administrator from inside a Powershell terminal_:
 start prowershell -Verb RunAs
 ```
 
-`List` Example:
+List Example:
 
 ```Shell
 usbipd list
