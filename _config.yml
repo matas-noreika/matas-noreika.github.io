@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Matas Does Things
-email: matassimkus55@gmail.com
+author:
+  name: Matas Noreika
+  email: matassimkus55@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blogging site to share topics that I am currently
   exploring.
